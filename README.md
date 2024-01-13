@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**rdbhaiya/rdbhaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rupam Das, a passionate Developer from Kolkata. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python|C|C++|JAVA|KOTLIN|
+- **Web Technologies:** HTML|CSS|JS|
+- **Database:** MYSQL|AMAZON RDS|
+- **Other Tools:** OPEN CV|KIVY|PYSIMPLEGUI|TINKTER|
+
+## 🌱 Currently Learning
+
+-  Currently pursuing a Bachelor's Degree in Computer Science and Engineering (CSE) in my third year.
+
+## 🚀 Qualification
+
+Here are some Qualifications that I'm proud of:
+
+- ENGAGED IN CODING CONTESTS HOSTED BY PRESTIGIOUS PLATFORMSLIKE CODECHEF AND HACKERRANK, DEMONSTRATING MY PROFICIENCY IN ALGORITHMIC PROBLEM-SOLVING.
+- DEVELOPED A SPECTRUM OF APPLICATIONS, RANGING FROM BASIC TO INTERMEDIATE, UTILIZING GRAPHICAL USER INTERFACE (GUI) FRAMEWORKS LIKE PYSIMPLEGUI, KIVY, AND WEB FRAMEWORKSSUCH AS FLASK IN PYTHON.
+- POSSESS SUBSTANTIAL EXPERTISE IN DATA STRUCTURES,ALGORITHMS, AND OBJECT-ORIENTED PROGRAMMING, LEVERAGING LANGUAGES LIKE C++,C,JAVA,PYTHON,SQL.
+- COMPLETED COMPREHENSIVE COURSES AND VIRTUAL INTERNSHIPS IN AI-ML AND EMBEDDED SYSTEM DEVELOPMENT THROUGH ESTEEMED ORGANIZATIONS LIKE HACKERRANK, AICTE NEAT, MICROCHIP TECHNOLOGIES, AND AMAZON WEB SERVICES 
+  (CLOUD FOUNDATIONS), HONING A DIVERSE SKILL SET.
+
+   ...
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat!
+⭐️ Thank you for visiting! ⭐️
