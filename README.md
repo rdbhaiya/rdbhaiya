@@ -1,4 +1,4 @@
-![Night of Falling Stars](https://cdna.artstation.com/p/assets/images/images/049/456/834/original/moises-dimas-night-of-falling-stars-hd-2-wallpaper.gif)
+![Night of Falling Stars](https://i.pinimg.com/originals/77/36/92/77369246a6011a5b56f06cf429128f1a.gif)
 
 # Hi there! 👋
 
